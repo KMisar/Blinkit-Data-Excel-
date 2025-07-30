@@ -4,6 +4,8 @@
 This repository showcases an interactive Excel dashboard analyzing Blinkit’s sales data. It highlights key performance indicators, outlet characteristics, item categories, and customer ratings to support data-driven decisions.
 
 ### 📌 Dashboard Features
+<img width="1498" height="614" alt="BlinkitData" src="https://github.com/user-attachments/assets/dc1a1cd9-0069-4971-97bb-b33d604c6d01" />
+
 - **KPIs Displayed:**
   - Total Sales: ₹1201.68M
   - Average Sales: ₹141
@@ -24,4 +26,4 @@ This repository showcases an interactive Excel dashboard analyzing Blinkit’s s
 ### 🚀 How to Use
 Open the Excel file and interact with slicers to filter data by outlet size, location, and item type. Visualizations will update dynamically to reflect your selections.
 
-Contact info:khushimisar@gmail.com
+Contact info: khushimisar@gmail.com
